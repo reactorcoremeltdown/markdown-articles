@@ -10,3 +10,11 @@
 Telnet - это, конечно, хорошо, но нам нужна автоматизация. Для этого мы напишем простой **watchdog**:
 
     #!/usr/bin/env bash
+    watchdir=$1
+    
+    while inotifywait -r -e close_write $watchdir; do
+    	sleep 0.5
+    	echo "reload" | nc -q 1 localhost 32000
+    done
+
+и положим его куда-нибудь в `$PATH`
