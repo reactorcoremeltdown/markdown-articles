@@ -4,4 +4,4 @@
 
 #### Плагин для Firefox с TCP-сокетом.
 
-Устанавливаем в Firefox дополнение [Remote Control](https://github.com/pmorch/FF-Remote-Control). На панели аддонов появится кнопочка ![](http://wasteland.it-the-drote.tk/shot/debian/firefox-remote.png)
+Устанавливаем в Firefox дополнение [Remote Control](https://github.com/pmorch/FF-Remote-Control). На панели аддонов появится кнопочка ![](http://wasteland.it-the-drote.tk/shot/debian/firefox-remote.png). Нажимаем кнопочку и Firefox начинает слушать 32000 порт и ожидать входящих команд. Можно зайти в эмулятор терминала, нажать `telnet localhost 32000` и посылать браузеру Javascript-команды. Хотя, можно и просто **reload**.
