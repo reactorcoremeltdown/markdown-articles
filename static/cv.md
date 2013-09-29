@@ -42,9 +42,12 @@
 + DBMS
     + MySQL
     + SQLite
++ Рисование и векторная графика
+    + Inkscape
 + VCS и прочее
     + git
         + gitolite
+
 #### Образование
 
 
