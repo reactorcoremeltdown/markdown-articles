@@ -61,17 +61,16 @@
 Стоит заметить, что **lightdm** запускает эти скрипты от имени **root**.
 
 На закуску у нас **XScreensaver**. Он тоже не позволяет запускать команды посредством хоткея, но что мешает запустить описанный выше сканер вместе с хранителем экрана? Ничего:
-<img src="https://dl.dropbox.com/u/19274654/pictures/screenshot/crunchbang/xscreensaver.png" alt="" /> 
- 
-В скрипте мы описываем запуск скринсейвера:
- 
-<code lang="bash">
-#!/usr/bin/env bash
 
-/home/buckstabu/bin/printcode-greeter-launch
-/usr/lib/xscreensaver/glmatrix -root -mode hex
-</code> 
- 
+![](https://dl.dropbox.com/u/19274654/pictures/screenshot/crunchbang/xscreensaver.png)
+
+В скрипте мы описываем запуск скринсейвера:
+
+    #!/usr/bin/env bash
+    
+    /home/buckstabu/bin/printcode-greeter-launch
+    /usr/lib/xscreensaver/glmatrix -root -mode hex
+
 Вот и всё, господа и дамы. Теперь можно показать веб-камере бумажку с кодом и компьютер послушно разблокируется. Да, это не так и безопасно, да и в полумраке работает чуть лучше чем никак, но, попробовав один раз, я уже не могу себе отказывать в подобном удовольствии.
  
 P.S.: Да, я знаю про PAM. Мне лень было разбираться с pam-script, ибо документации с гулькин нос.
@@ -80,8 +79,6 @@ P.P.S.: /tmp/ заблаговременно переместил в RAM.
 
 P.P.P.S.: Как оказалось, **zbarimg** довольно привередлив, поэтому изображения для него нужно подготавливать. После съёмки кадра с помощью **fswebcam** картинку нужно преобразовать:
 
-<code lang="bash">
-convert /tmp/printcode.png -colorspace Gray -normalize -equalize -depth 50 -white-threshold 20000 /tmp/printcode.png
-</code>
+    convert /tmp/printcode.png -colorspace Gray -normalize -equalize -depth 50 -white-threshold 20000 /tmp/printcode.png
 
 Рецепт я подобрал почти случайно, улучшения приветствуются.
