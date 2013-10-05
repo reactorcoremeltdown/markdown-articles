@@ -45,4 +45,4 @@
 
 + **Yandex.Money**: 410011034369093
 + **Bitcoin**: информация будет позже
-+ **Litecoin**: информация будет позже
++ **Litecoin**: [LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH](litecoin:LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH?label=ltcpocket)
