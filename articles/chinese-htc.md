@@ -23,4 +23,4 @@
 
 ![](http://dump.bitcheese.net/images/izaxoce/IMG_0598.jpeg)
 
-![](http://dump.bitcheese.net/images/izaxoce/IMG_0599.jpeg)
+![](http://dump.bitcheese.net/images/uwehiny/IMG_0599.jpeg)
