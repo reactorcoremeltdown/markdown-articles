@@ -10,3 +10,4 @@
 
 ### Инкубатор
 + [Ввод пароля путём сканирования QR-кода веб-камерой](http://it-the-drote.tk/article/qr-webcam)
++ [Простые и сытные блюда для городского жителя](http://it-the-drote.tk/article/citizen-food)
