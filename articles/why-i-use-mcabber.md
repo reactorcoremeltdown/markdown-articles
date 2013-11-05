@@ -3,9 +3,9 @@
 
 Пошёл уже практически пятый год, как я использую [mcabber](http://mcabber.com), а на меня до сих пор смотрят как на юродивого и задают смешные вопросы. Зачастую, это просто праздный интерес, однако и этого достаточно, чтобы начать меня раздражать. Клиент этот обладает множеством достоинств и недостатков, поэтому вопросы получаются из: 
 
-    + того, что кто-то не понимает достоинств этого мессенджера;
-    + того, что кто-то не понимает, как жить с недостатками этого мессенджера;
-    + всего вышеперечисленного.
++ того, что кто-то не понимает достоинств этого мессенджера;
++ того, что кто-то не понимает, как жить с недостатками этого мессенджера;
++ всего вышеперечисленного.
 
 Ок, раз пошла такая пьянка, я расскажу обо всём этом. Один раз. Здесь.
 
@@ -26,18 +26,18 @@
 ####Мобильность
 Здесь mcabber, по моему скромному мнению, вообще вне конкуренции. Текстовый интрефейс настолько лёгок и хорошо масштабируем, что пролезет в любой терминал через ssh. А поскольку ssh-клиенты есть практически для любой мало-мальски развитой пользовательской операционной системы, доступ к своему чатику я могу без особого труда получить вообще из любого места, в котором есть интернет. Разве что кейлоггеров на чьей-нибудь операционной системе стоит опасаться, но и для этого можно таскать с собой ридонли-флэшку с клиентом и ключиками. В общей сложности, мне удавалось использовать mcabber с комфортом на следующих операционных системах:
 
-    + Microsoft Windows([PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html), [KiTTY](http://www.9bis.net/kitty/)) 
-    + Apple Mac OS X(native, [OpenSSH](http://www.openssh.com/))
-    + GNU/Linux(native, [OpenSSH](http://www.openssh.com/), [MOSH](http://mosh.mit.edu))
-    + FreeBSD(native, [OpenSSH](http://www.openssh.com/))
-    + Symbian([S2PuTTY](http://sourceforge.net/projects/s2putty/))
-    + Maemo & MeeGo([OpenSSH](http://www.openssh.com/))
-    + Android
-        + [ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot)
-        + [Irssi ConnectBot](https://play.google.com/store/apps/details?id=org.woltage.irssiconnectbot)
-        + [VX ConnectBot](https://play.google.com/store/apps/details?id=sk.vx.connectbot)
-        + [ServerAuditor](https://play.google.com/store/apps/details?id=com.crystalnix.gloria)
-        + [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh)
-    + Apple iOS(https://itunes.apple.com/ru/app/id549039908?mt=8)
++ Microsoft Windows([PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html), [KiTTY](http://www.9bis.net/kitty/)) 
++ Apple Mac OS X(native, [OpenSSH](http://www.openssh.com/))
++ GNU/Linux(native, [OpenSSH](http://www.openssh.com/), [MOSH](http://mosh.mit.edu))
++ FreeBSD(native, [OpenSSH](http://www.openssh.com/))
++ Symbian([S2PuTTY](http://sourceforge.net/projects/s2putty/))
++ Maemo & MeeGo([OpenSSH](http://www.openssh.com/))
++ Android
+    + [ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot)
+    + [Irssi ConnectBot](https://play.google.com/store/apps/details?id=org.woltage.irssiconnectbot)
+    + [VX ConnectBot](https://play.google.com/store/apps/details?id=sk.vx.connectbot)
+    + [ServerAuditor](https://play.google.com/store/apps/details?id=com.crystalnix.gloria)
+    + [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh)
++ Apple iOS(https://itunes.apple.com/ru/app/id549039908?mt=8)
 
 Как видите, вариантов достаточно много. Кстати, при использовании mcabber через ssh отпадает надобность в синхронизации чатлогов: нужно всего лишь зайти на сервер и вызвать `screen` или `tmux`. Удобно, если не хочется терять нить беседы.
