@@ -2,6 +2,7 @@
 =======================
 
 ### Статьи
++ [Почему я использую mcabber в качестве мессенджера(доходчивое объяснение для тех, кто ещё не понял)](http://it-the-drote.tk/article/why-i-use-mcabber)
 + [Задний фонарь для велосипеда из подручных средств](http://it-the-drote.tk/article/tail-light-for-bicycle-from-scratch)
 + [Вёрстка веб-старниц без геморроя](http://it-the-drote.tk/article/webdev-done-right)
 
