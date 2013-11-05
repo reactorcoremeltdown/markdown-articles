@@ -38,6 +38,6 @@
     + [VX ConnectBot](https://play.google.com/store/apps/details?id=sk.vx.connectbot)
     + [ServerAuditor](https://play.google.com/store/apps/details?id=com.crystalnix.gloria)
     + [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh)
-+ Apple iOS(https://itunes.apple.com/ru/app/id549039908?mt=8)
++ Apple iOS([ServerAuditor](https://itunes.apple.com/ru/app/id549039908?mt=8))
 
 Как видите, вариантов достаточно много. Кстати, при использовании mcabber через ssh отпадает надобность в синхронизации чатлогов: нужно всего лишь зайти на сервер и вызвать `screen` или `tmux`. Удобно, если не хочется терять нить беседы.
