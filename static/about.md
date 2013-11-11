@@ -44,5 +44,5 @@
 Если хотите дать мне денег, то это вполне осуществимо:
 
 + **Yandex.Money**: 410011034369093
-+ **Bitcoin**: информация будет позже
++ **Bitcoin**: [1F2WGSw6zMDAngtgaf1Ddv4KjaRXVoXtK9](bitcoin:1F2WGSw6zMDAngtgaf1Ddv4KjaRXVoXtK9?lab)
 + **Litecoin**: [LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH](litecoin:LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH?label=ltcpocket)
