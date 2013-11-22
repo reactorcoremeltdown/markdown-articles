@@ -10,5 +10,6 @@
 + [Китайский клон HTC Sensation XL](http://it-the-drote.tk/article/chinese-htc)
 
 ### Инкубатор
++ [Обзор мобильных SSH-клиентов](http://it-the-drote.tk/article/mobile-ssh-clients-review)
 + [Ввод пароля путём сканирования QR-кода веб-камерой](http://it-the-drote.tk/article/qr-webcam)
 + [Простые и сытные блюда для городского жителя](http://it-the-drote.tk/article/citizen-food)
