@@ -80,4 +80,4 @@
 + III группа электробезопасности
 
 #### Контактная информация
-+ <lucidlynx@yandex.ru>
++ <like-all@yandex.com>
