@@ -35,7 +35,7 @@
 
 Меня всегда можно найти в **jabber**: **like-all@it-the-drote.tk**
 
-Иногда можно писать и в **e-mail**: **lucidlynx@yandex.ru**
+Иногда можно писать и в **e-mail**: <like-all@yandex.com>
 
 Номер телефона даю только в случае критической необходимости.
 
@@ -44,5 +44,5 @@
 Если хотите дать мне денег, то это вполне осуществимо:
 
 + **Yandex.Money**: 410011034369093
-+ **Bitcoin**: [1F2WGSw6zMDAngtgaf1Ddv4KjaRXVoXtK9](bitcoin:1F2WGSw6zMDAngtgaf1Ddv4KjaRXVoXtK9?label=btcpocket)
++ **Bitcoin**: [196mWnvQze7UX16SUwzBy4ppUMcPbgUTPH](bitcoin:196mWnvQze7UX16SUwzBy4ppUMcPbgUTPH?label=btcpocket)
 + **Litecoin**: [LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH](litecoin:LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH?label=ltcpocket)
