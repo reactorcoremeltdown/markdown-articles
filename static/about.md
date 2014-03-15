@@ -18,9 +18,9 @@
 Временами обитаю в интернете:
 
 + [GitHub](https://github.com/Like-all)
-+ [Questhub](http://questhub.io/player/Buckstabu)
++ [Questhub](http://questhub.io/player/Buckstabu) - Временно забросил, перекатился на [trello](http://trello.com)
 + [Endomondo](http://www.endomondo.com/profile/10419237)
-+ [Twitter](https://twitter.com/lik3a11)
++ [Twitter](https://twitter.com/schmerzundtod)
 + [Facebook](https://www.facebook.com/darthbricktop)
 + [Linux.Org.Ru](http://www.linux.org.ru/people/like-all/profile)
 + [Instagram](http://instagram.com/schmerzundtod)
