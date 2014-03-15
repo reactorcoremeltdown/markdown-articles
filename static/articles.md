@@ -2,6 +2,7 @@
 =======================
 
 ### Статьи
++ [Тупое руководство по добавлению видеоролика в CameraRoll в iOS](http://it-the-drote.tk/article/dumb-way-to-add-video-in-ios-camera-roll)
 + [Кросспостинг из Instagram для гиков](http://it-the-drote.tk/article/instagram-crossposting-for-geeks)
 + [Правильная синхронизация фотографий на iOS-девайсах](http://it-the-drote.tk/article/ios-photos-sync-done-right)
 + [Небольшое руководство по набору утилит sbutils](http://it-the-drote.tk/article/little-sbutils-guide)
