@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+
+mdfile=$1
+
+if ! [[ -f $mdfile ]]; then
+    echo "File not found."
+    exit 1
+fi
+
+if ! [[ `which md-deploy` ]]; then
+    echo "Executable not in \$PATH. Would you like to add executable to \$PATH?(yes/no)"
+    read answer
+    if [[ $answer = "yes" ]]; then
+        self_path=`readlink -f $0`
+        def_shell=`grep $(whoami) /etc/passwd | cut -f 7 -d ':' | rev | cut -f 1 -d '/' | rev`
+        mkdir -p $HOME'/bin/'
+        ln -s $self_path $HOME'/bin/'$0
+        case $def_shell in
+            'zsh')
+                echo -e '\nexport PATH=$PATH:'$HOME'/bin' >> $HOME'/.zshrc'
+                ;;
+            'bash')
+                echo -e '\nexport PATH=$PATH:'$HOME'/bin' >> $HOME'/.bashrc'
+                ;;
+        esac
+    fi
+fi
+
+
+mdtitle=`head -n 1 $mdfile`
+mdpath=`readlink -f $mdfile | rev | cut -f 2- -d '/' | rev`
+
+cd $mdpath
+git commit -am "$mdtitle"
+git push origin master
+ssh buckstabu@it-the-drote.tk 'cd /home/buckstabu/dev/it-the-drote/public/md && git pull'
