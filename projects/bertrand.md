@@ -17,6 +17,10 @@ Bertrand - это простая программа для учёта финан
         "bertrandFile": "/path/to/accounting/file.csv"
     }
 
+Существуют также бинарные сборки: [Linux amd64](http://wasteland.it-the-drote.tk/appstore/bertrand/linux/amd64/bertrand), [Windows amd64](http://wasteland.it-the-drote.tk/appstore/bertrand/windows/amd64/bertrand.exe)(экспериментальная сборка, работоспособность не проверялась).
+
+В текущей версии есть агрумент `--init`, позволяющий инициировать конфигурационный файл и файл для записи транзакций.
+
 #Использование
 
 Bertrand хранит данные в файлах csv, которые содержат 4 колонки: **DATE**;**ACCOUNT**;**AMOUNT**;**COMMENT**(optional)
