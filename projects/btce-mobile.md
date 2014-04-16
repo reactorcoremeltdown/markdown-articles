@@ -6,9 +6,9 @@ Btce-mobile - легковесный мобильный веб-клиент дл
 
 BTCe-mobile - простой мобильный веб-клиент для криптовалютной биржи BTCe. Он подходит для быстрого размещения и снятия ордеров на покупку/продажу криптовалюты с помощью мобильного устройства.
 
-![](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_1034.PNG)
-![](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_0289.PNG)
-![](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_0960.PNG)
+[ ![](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_1034.PNG) ](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_1034.PNG)
+[ ![](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_0289.PNG) ](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_0289.PNG)
+[ ![](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_0960.PNG) ](http://wasteland.it-the-drote.tk/shot/iOS/BTCe-mobile/IMG_0960.PNG)
 
 ###Установка
 
