@@ -12,57 +12,40 @@
 С первого запуска программы видно, что она создавалась ещё под первые девайсы, с аппаратной клавиатурой и другими многочисленными клавишами. Ну и Android 1.x-2.x, да, что, впрочем не мешает приложению работать на 4.x:
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:30:47.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:30:55.png)
 
 Самое приятное в клиенте - возможность быстро создать подключение: достаточно лишь выбрать протокол(ssh, telnet или local), а затем вписать в текстбокс `<имя пользователя>@<имя хоста>` и нажать Return:
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:31:03.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:32:55.png)
 
 Настроек у приложения не очень много, в основном привязки действий к аппаратным клавишам и screen/wifi lock:
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:33:08.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:41:04.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:41:14.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:41:18.png)
 
 Также имеются отдельные настройки для каждого хоста: 
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:39:38.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:40:00.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:40:04.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:40:10.png)
-
-
 
 Есть возможность сгенерировать пару ключей RSA или DSA. Passphrase обязательна, вводится один раз при запуске приложения:
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:33:22.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:33:51.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:34:00.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:34:16.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:34:36.png)
 
 По умолчанию будет предложено ввести пароль, однако в свойствах хоста можно предварительно указать ключ, а публичную его часть скопировать в буфер обмена и послать, например, самому себе по почте, чтобы потом закинуть в `authorized_keys` на сервере.
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:35:15.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:35:26.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:38:36.png)
-
 
 Итак, после подключения в приложении появляется, собственно, терминал, небольшая панелька с тремя программными клавишами внизу него(`Ctrl`, `Esc` и вызов экранной клавиатуры) и контекстное меню. Свайп по левой половине экрана забит на клавиши `PgUp` и `PgDn`, свайп по правой - на скроллинг буфера:
 
@@ -71,7 +54,6 @@
 Есть одна неприятная особенность: в zsh почему-то текст введённых команд дублируется на новую строку. В bash, при этом, всё хорошо:
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:36:14.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:36:34.png)
 
 Я до сих пор не придумал, как в этом клиенте нажимать клавишу `Alt` и мне без неё очень грустно. Впрочем, нажатие стрелочек я тоже не знаю как сымитировать. Всё это было возможно на старых добрых клавиатурных девайсах, но их времена, кажется, безвозвратно ушли. Получается, что и время этой программы ушло, однако, форки исправили положение дел.
@@ -82,7 +64,6 @@
 На Android 4.x не выглядит анахронизмом, используется "родная" тема Holo:
 
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:43:12.png)
-
 ![](http://wasteland.it-the-drote.tk/shot/Android/sshreview/raw/cropped/2013-12-01-17:43:45.png)
 
 Добавлена возможность передавать файлы по протоколу sftp:
