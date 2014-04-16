@@ -5,8 +5,8 @@
 
 Для начала потребуется [зарегистрироваться](http://flickr.com/signup) в сервисе Flickr. Это не займёт много времени. После регистрации необходимо авторизовать flickr в клиенте instagram, это тоже просто
 
-![](http://wasteland.it-the-drote.tk/shot/iOS/IMG_0343.PNG)
-![](http://wasteland.it-the-drote.tk/shot/iOS/IMG_0344.PNG)
+[ ![](http://wasteland.it-the-drote.tk/shot/iOS/IMG_0343.PNG) ](http://wasteland.it-the-drote.tk/shot/iOS/IMG_0343.PNG)
+[ ![](http://wasteland.it-the-drote.tk/shot/iOS/IMG_0344.PNG) ](http://wasteland.it-the-drote.tk/shot/iOS/IMG_0344.PNG)
 
 Далее необходимо выяснить api key, api secret и user id. Взять их можно на [этой](http://www.flickr.com/services/apps/create/apply/) странице. User ID можно взять из URL после перехода по [этой](http://www.flickr.com/services/apps/by/me) ссылке, он будет последним значением после слэша. Теперь создаём директорию, в которой всё это будет крутиться, и пишем конфиг:
 

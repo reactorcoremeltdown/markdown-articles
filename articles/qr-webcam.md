@@ -62,7 +62,7 @@
 
 На закуску у нас **XScreensaver**. Он тоже не позволяет запускать команды посредством хоткея, но что мешает запустить описанный выше сканер вместе с хранителем экрана? Ничего:
 
-![](https://dl.dropbox.com/u/19274654/pictures/screenshot/crunchbang/xscreensaver.png)
+[ ![](https://dl.dropbox.com/u/19274654/pictures/screenshot/crunchbang/xscreensaver.png) ](https://dl.dropbox.com/u/19274654/pictures/screenshot/crunchbang/xscreensaver.png)
 
 В скрипте мы описываем запуск скринсейвера:
 
