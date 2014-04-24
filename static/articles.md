@@ -2,6 +2,7 @@
 =======================
 
 ### Статьи
++ [Очень смешной баг в ROXTerm](http://it-the-drote.tk/article/ridiculous-bug-in-roxterm)
 + [Полезные куски кода](http://it-the-drote.tk/article/useful-code-snippets)
 + [Тупое руководство по добавлению видеоролика в CameraRoll в iOS](http://it-the-drote.tk/article/dumb-way-to-add-video-in-ios-camera-roll)
 + [Кросспостинг из Instagram для гиков](http://it-the-drote.tk/article/instagram-crossposting-for-geeks)
