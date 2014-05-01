@@ -18,3 +18,7 @@
 #### ESP RZK-II Schwarz
 
 [![](http://wasteland.it-the-drote.tk/tmp/workouts/rzk2_schwarz.png)](http://wasteland.it-the-drote.tk/tmp/workouts/rzk2_schwarz.png)
+
+#### ESP Teletruckster
+
+[![](http://wasteland.it-the-drote.tk/tmp/workouts/teletruckster.png)](http://wasteland.it-the-drote.tk/tmp/workouts/teletruckster.png)
