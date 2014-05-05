@@ -13,7 +13,7 @@
 
 ###systemd-logind, systemd-hostnamed, systemd-journald, systemd-localed, systemd-shutdownd, systemd-timedated, etc, etc, etc^W^W^W
 
-Для полноты картины не хватает лишь `systemd-bullshitd`. В эту же кучу можно свалить кучу бесполезных хелперов вроде `systemd-ac-power`, которые чуть более чем полностью являются дёргателями функций из `util.h`.
+Для полноты картины не хватает лишь `systemd-bullshitd`. В эту же кучу можно свалить прорву бесполезных хелперов вроде `systemd-ac-power`, которые чуть более чем полностью являются дёргателями функций из `util.h`.
 
 Кстати, о птичках:
 
