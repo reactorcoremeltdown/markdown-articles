@@ -2,6 +2,7 @@
 =======================
 
 ### Статьи
++ [Несколько причин, из-за которых отдельно взятый я(в количестве одна штука) никогда не позволю systemd находиться на моих хостах](http://it-the-drote.tk/article/some-reasons-to-boycott-systemd)
 + [Обнаружение заражения systemd в Debian](http://it-the-drote.tk/article/detecting-systemd-infection-in-debian)
 + [Очень смешной баг в ROXTerm](http://it-the-drote.tk/article/ridiculous-bug-in-roxterm)
 + [Полезные куски кода](http://it-the-drote.tk/article/useful-code-snippets)
