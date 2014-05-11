@@ -22,3 +22,7 @@
 #### ESP Teletruckster
 
 [![](http://wasteland.it-the-drote.tk/tmp/workouts/teletruckster.png)](http://wasteland.it-the-drote.tk/tmp/workouts/teletruckster.png)
+
+#### ESP Bushido
+
+[![](http://wasteland.it-the-drote.tk/tmp/workouts/esp_bushido.png)](http://wasteland.it-the-drote.tk/tmp/workouts/esp_bushido.png)
