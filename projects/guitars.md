@@ -26,3 +26,7 @@
 #### ESP Bushido
 
 [![](http://wasteland.it-the-drote.tk/tmp/workouts/esp_bushido.png)](http://wasteland.it-the-drote.tk/tmp/workouts/esp_bushido.png)
+
+#### Edwards E-EC-7DSB
+
+[![](http://wasteland.it-the-drote.tk/tmp/workouts/edwards-e-ec-7dsb.png)](http://wasteland.it-the-drote.tk/tmp/workouts/edwards-e-ec-7dsb.png)
