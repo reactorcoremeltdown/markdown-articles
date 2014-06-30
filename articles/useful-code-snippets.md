@@ -10,3 +10,7 @@
 Вывод на stdout диапазона *символов* из переменной
 
     foo="<1234"; echo ${foo:0:1}
+
+Multipattern grep
+
+    egrep "pattern1|pattern2|pattern3"
