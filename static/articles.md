@@ -2,6 +2,7 @@
 =======================
 
 ### Статьи
++ [Как заставить работать старый Skype](http://it-the-drote.tk/article/how-to-old-skype)
 + [Сборка и установка драйверов для устройств ALPS](http://it-the-drote.tk/article/dealing-with-alps-pointer-device)
 + [Несколько причин, из-за которых отдельно взятый я(в количестве одна штука) никогда не позволю systemd находиться на моих хостах](http://it-the-drote.tk/article/some-reasons-to-boycott-systemd)
 + [Обнаружение заражения systemd в Debian](http://it-the-drote.tk/article/detecting-systemd-infection-in-debian)
