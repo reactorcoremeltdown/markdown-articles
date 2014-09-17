@@ -1,15 +1,15 @@
 Репозиторий Debian в моей файловой свалке
 =========================================
 
-Прошло некоторое время и я понял, что распространять программное обеспечение только в исходных кодах не очень здорово. Поскольку я являюсь пользователем операционной системы Debian, я решил создать хранилище для всех своих остальных возможных проектов.
+Прошло некоторое время и я понял, что распространять программное обеспечение только в исходных кодах не очень здорово. Поскольку я являюсь пользователем операционной системы Debian, я решил создать хранилище для всех своих остальных возможных проектов. Ну или просто для того софта, который забыли опакетить.
 
 ##### Как подключить репозиторий
 
     sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys "8C2C65DE"
-    sudo echo "deb http://wasteland.it-the-drote.tk/apps/debian/ wheezy main contrib non-free" > /etc/apt/sources.list.d/wasteland.it-the-drote.list
+    sudo echo "deb http://wasteland.it-the-drote.tk/apps/debian/ <distro> main contrib non-free" > /etc/apt/sources.list.d/wasteland.it-the-drote.list
     sudo apt-get update
 
-На данный момент есть только репозиторий `wheezy` для Debian 7.x, позже добавятся репозитории для Ubuntu.
+На данный момент поддерживаются Debian `wheezy` и `jessie`, Ubuntu `precise` и `trusty`. Эти коднеймы надо подставить вместо `<distro>`.
 
 ##### Как опубликовать пакет
 
