@@ -33,9 +33,12 @@
 
 #### Контакты
 
-Меня всегда можно найти в **jabber**: **like-all@it-the-drote.tk**
+Меня всегда можно найти в **jabber**: [**like-all@it-the-drote.tk**](xmpp:like-all@it-the-drote.tk)
 
 Иногда можно писать и в **e-mail**: <like-all@yandex.com>
+
+Очень иногда можно писать/звонить в **Tox**: [E4EAD3DCFCA3B35F3DD548045BEF99B7A3B1289F837A6B599B66B8FE4A07914E4B93DB22C42E](tox:E4EAD3DCFCA3B35F3DD548045BEF99B7A3B1289F837A6B599B66B8FE4A07914E4B93DB22C42E)
+Совершенно [бестолковая](http://it-the-drote.tk/article/tox-is-quite-unusable-as-a-skype-replacement) штука, но пусть будет.
 
 Номер телефона даю только в случае критической необходимости.
 
