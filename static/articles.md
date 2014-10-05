@@ -2,6 +2,7 @@
 =======================
 
 ### Статьи
++ [OpenRC в Debian](http://it-the-drote.tk/article/openrc-in-debian)
 + [Tox не годится в качестве замены Skype](http://it-the-drote.tk/article/tox-is-quite-unusable-as-a-skype-replacement)
 + [Как заставить работать старый Skype](http://it-the-drote.tk/article/how-to-old-skype)
 + [Сборка и установка драйверов для устройств ALPS](http://it-the-drote.tk/article/dealing-with-alps-pointer-device)
