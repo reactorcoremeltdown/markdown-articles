@@ -6,7 +6,7 @@
 ##### Как подключить репозиторий
 
     sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys "8C2C65DE"
-    sudo echo "deb http://wasteland.it-the-drote.tk/apps/debian/ <distro> main contrib non-free" > /etc/apt/sources.list.d/wasteland.it-the-drote.list
+    echo "deb http://wasteland.it-the-drote.tk/apps/debian/ <distro> main contrib non-free" | sudo tee /etc/apt/sources.list.d/wasteland.it-the-drote.list
     sudo apt-get update
 
 На данный момент поддерживаются Debian `wheezy` и `jessie`, Ubuntu `precise` и `trusty`. Эти коднеймы надо подставить вместо `<distro>`.
