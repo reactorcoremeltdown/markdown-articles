@@ -25,7 +25,7 @@ Work in progress. Описать параллельный запуск и вза
     start_stop_daemon_args="-u buckstabu --stdout /var/log/promo.log --stderr /var/log/promo.err"
     name="promo"
 
-    start-pre() {
+    start_pre() {
         alias start-stop-daemon="openrc -a start-stop-daemon"
     }
 
@@ -33,7 +33,7 @@ Work in progress. Описать параллельный запуск и вза
         provide promo
     }
 
-Поскольку в OpenRC существуют свои реализации команд `service` и `start-stop-daemon`, корректнее будет использовать их для манипуляций с RC-скриптами. Управление сервисами осуществляется с помощью команды `rc-service`, синтаксис тот же, что и у обычной команды, однако, `rc-service` отслеживает состояния сервисов и кэширует их описания вместе с зависимостями. Реализация `start-stop-daemon` из поставки OpenRC задействуется с помощью алиаса в функции `start-pre()`. Краткое описание реализации `start-stop-daemon`:
+Поскольку в OpenRC существуют свои реализации команд `service` и `start-stop-daemon`, корректнее будет использовать их для манипуляций с RC-скриптами. Управление сервисами осуществляется с помощью команды `rc-service`, синтаксис тот же, что и у обычной команды, однако, `rc-service` отслеживает состояния сервисов и кэширует их описания вместе с зависимостями. Реализация `start-stop-daemon` из поставки OpenRC задействуется с помощью алиаса в функции `start_pre()`. Краткое описание реализации `start-stop-daemon`:
 
     openrc -a start-stop-daemon --help
     Usage: start-stop-daemon [options] 
