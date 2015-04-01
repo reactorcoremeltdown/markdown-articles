@@ -15,6 +15,10 @@ Multipattern grep
 
     egrep "pattern1|pattern2|pattern3"
 
+Перейти в корневую директорию git-репозитория
+
+    cd $(git rev-parse --show-cdup)
+
 ###NGINX
 
 Правильная подстановка переменной в путь к файлу
