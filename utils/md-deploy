@@ -37,4 +37,4 @@ git add $mdname'.md'
 git commit -am "$mdtitle"
 git push origin master
 
-ssh buckstabu@it-the-drote.tk 'cd /home/buckstabu/dev/it-the-drote/public/md && git pull'
+ssh -p 2222 buckstabu@it-the-drote.tk 'cd /home/buckstabu/dev/it-the-drote/public/md && git pull'
