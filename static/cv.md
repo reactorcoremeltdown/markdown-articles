@@ -53,6 +53,7 @@
 + DBMS
     + MySQL
     + SQLite
+    + MongoDB
 + Рисование и векторная графика
     + Inkscape
 + VCS и прочее
