@@ -16,6 +16,7 @@
 
 ### Обзоры
 + [Китайский клон HTC Sensation XL](article/chinese-htc)
++ [Переход с Android на Windows Phone: испытание длиной в неделю](article/switching-from-android-to-windows-phone)
 
 ### Инкубатор
 + [OpenRC в Debian](article/openrc-in-debian)
