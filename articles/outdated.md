@@ -1,4 +1,4 @@
 Неактуальное
 ============
 
-+ [Как заставить работать старый Skype](/article/how-to-old-skype)
++ [Как заставить работать старый Skype](article/how-to-old-skype)

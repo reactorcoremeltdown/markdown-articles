@@ -19,6 +19,7 @@
 + [Переход с Android на Windows Phone: испытание длиной в неделю](article/switching-from-android-to-windows-phone)
 
 ### Инкубатор
++ [Сборка пакетов для Debian и Ubuntu из исходных кодов: от скелета до репозиториев](article/packaging-in-debian-from-a-to-z)
 + [OpenRC в Debian](article/openrc-in-debian)
 + [Обзор мобильных SSH-клиентов](article/mobile-ssh-clients-review)
 + [Ввод пароля путём сканирования QR-кода веб-камерой](article/qr-webcam)
