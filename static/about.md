@@ -3,9 +3,9 @@
 
 Меня зовут **Азер Абдуллаев**, для друзей и знакомых **Like-all** или просто Лайк.
 
-Произведён на свет первого марта 1989 года, то бишь ещё в СССР, после чего перманентно стал заниматься хернёй.
+Непрерывно страдаю ерундой с первого марта 1989 года.
 
-На данный момент я линуксоид, личинка админа в [широко известном в узких кругах поисковом сервисе](http://yandex.ru) и просто хороший человек.
+На данный момент я ~~линуксоид~~ ~~маковод~~ ~~виндузятник~~ вообще хрен пойми кто, если говорить о компьютерной сексуальной ориентации, а также окуклившаяся личинка системного администратора в [широко известном в узких кругах поисковом сервисе](http://yandex.ru) и просто хороший человек.
 
 В естественной среде обитания выгляжу примерно так:
 
@@ -18,27 +18,25 @@
 Временами обитаю в интернете:
 
 + [GitHub](https://github.com/Like-all)
-+ [Questhub](http://questhub.io/player/Buckstabu) - Временно забросил, перекатился на [trello](http://trello.com)
++ ~~[Questhub](http://questhub.io/player/Buckstabu)~~ - заброшено, перекатился на [trello](http://trello.com)
 + [Endomondo](http://www.endomondo.com/profile/10419237)
-+ [Twitter](https://twitter.com/schmerzundtod)
-+ [Facebook](https://www.facebook.com/darthbricktop)
++ ~~[Twitter](https://twitter.com/schmerzundtod)~~ - заброшено, реанимация не планируется
 + [Linux.Org.Ru](http://www.linux.org.ru/people/like-all/profile)
 + [Instagram](http://instagram.com/schmerzundtod)
 + [BnW](http://bnw.im/u/like-all)
-+ [Point.im](https://like-all.point.im) - огорожено, ничего интересного. Временно забросил.
-+ [Juick](http://juick.com/Buckstabu) - пишу крайне редко.
++ ~~[Point.im](https://like-all.point.im)~~ - заброшено.
++ ~~[Juick](http://juick.com/Buckstabu)~~ - заброшено.
 + ~~[Psto.net](http://like-all.psto.net) - заброшено, огорожено от незалогиненных.~~ Сервис окончательно сдох. логи есть [тут](http://huick.bitcheese.net/u/like-all)
 
-[Плюсач](http://plus.google.com) не использую. Не вижу смысла. [Вконтактик](http://vk.com) есть, но только для связи с теми, для которых интернета кроме вконтактов не существует. Линкедины, реддиты, формспринги и прочие заморские развлечения я не понимаю и не нуждаюсь в них.
+[Плюсач](http://plus.google.com) не прижился. Вконтакты Линкедины, реддиты, формспринги и прочие пожиратели времени не использую, не вижу смысла.
 
 #### Контакты
 
-Меня всегда можно найти в **jabber**: [**like-all@it-the-drote.tk**](xmpp:like-all@it-the-drote.tk)
+Меня всегда можно найти в [**Telegram**](https://telegram.me/schmerzundtod).
 
-Иногда можно писать и в **e-mail**: <like-all@yandex.com>
+Иногда заглядываю в свой личный [**Jabber**](xmpp:like-all@it-the-drote.tk).
 
-Очень иногда можно писать/звонить в **Tox**: [E4EAD3DCFCA3B35F3DD548045BEF99B7A3B1289F837A6B599B66B8FE4A07914E4B93DB22C42E](tox:E4EAD3DCFCA3B35F3DD548045BEF99B7A3B1289F837A6B599B66B8FE4A07914E4B93DB22C42E)
-Совершенно [бестолковая](http://it-the-drote.tk/article/tox-is-quite-unusable-as-a-skype-replacement) штука, но пусть будет.
+Время от аремени можно писать и в **e-mail**: <like-all@yandex.com>
 
 Номер телефона даю только в случае критической необходимости.
 
