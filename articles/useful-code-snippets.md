@@ -26,3 +26,19 @@ Multipattern grep
     access_log /var/log/nginx/${variable}-access.log;
                               ^
 _Запись в директорию должна быть возможна от пользователя, под которым запущен воркер_
+
+### PostgreSQL
+
+Переместить все таблицы из одной схемы в другую
+
+    DO
+    $$
+    DECLARE
+        row record;
+    BEGIN
+        FOR row IN SELECT tablename FROM pg_tables WHERE schemaname = 'public' -- and other conditions, if needed
+        LOOP
+            EXECUTE 'ALTER TABLE public.' || quote_ident(row.tablename) || ' SET SCHEMA [new_schema];';
+        END LOOP;
+    END;
+    $$;
