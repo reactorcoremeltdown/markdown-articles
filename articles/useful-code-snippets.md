@@ -19,6 +19,11 @@ Multipattern grep
 
     cd $(git rev-parse --show-cdup)
 
+Использование массивов в bash
+
+    declare -A foo
+    foo[bar] = 'baz'
+
 ### NGINX
 
 Правильная подстановка переменной в путь к файлу
