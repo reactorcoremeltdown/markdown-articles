@@ -13,7 +13,7 @@ Maintaining a wide range of well-integrated intranet-services, such as our own t
 
 +  08.2012-04.2014 **Duty Engineer (full-time)**, *Yandex LLC*, https://company.yandex.com
 
-Maintaining hardware in data-centers, replacing broken parts, providing physical network communications.
+Maintaining hardware in data-centers, replacing broken parts, establishing physical network communications.
 
 + 03.2012-06.2012 **Duty Engineer (full-time)**, *Oversun Scalaxy*
 
