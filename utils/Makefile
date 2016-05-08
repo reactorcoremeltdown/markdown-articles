@@ -1,5 +1,5 @@
 cv: ../static/cv-en.md
-		mkdir ../ext-build && \
+		mkdir ../ext-build || true && \
 		cd ../static/ && \
 		marked cv-en.md >> ../ext-build/cv-en.html && \
 		cd ../ext-build && \
