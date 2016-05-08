@@ -38,7 +38,7 @@ Master's degree in information security
     + Advanced: Bash
     + Medium: Go, Python, JavaScript
     + Basic: C, Ruby, Perl
-+ DVCS
++ VCS
     + Medium: Git
     + Basic: SVN, Mercurial
 + DBMS
