@@ -1,5 +1,5 @@
 # Azer Abdullaev
-## System administrator
+## System administrator / DevOps engineer
 ##### Phone: +38 (093) 607-52-48
 ##### E-mail: like-all@yandex.com
 
