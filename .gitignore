@@ -1,2 +1,3 @@
 articles/*.swp
 ext-build/
+.DS_Store
