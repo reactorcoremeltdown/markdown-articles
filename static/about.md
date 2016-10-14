@@ -22,7 +22,7 @@
 + [Endomondo](http://www.endomondo.com/profile/10419237)
 + ~~[Twitter](https://twitter.com/schmerzundtod)~~ - заброшено, реанимация не планируется
 + [Linux.Org.Ru](http://www.linux.org.ru/people/like-all/profile)
-+ [Instagram](http://instagram.com/schmerzundtod)
++ [Instagram](http://instagram.com/reactorcoremeltdown)
 + [BnW](http://bnw.im/u/like-all)
 + ~~[Point.im](https://like-all.point.im)~~ - заброшено.
 + ~~[Juick](http://juick.com/Buckstabu)~~ - заброшено.
