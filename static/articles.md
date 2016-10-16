@@ -2,6 +2,7 @@
 =======================
 
 ### Статьи
++ [Сборка пакетов для Debian в Travis CI](article/assembling-debian-packages-in-travis)
 + [Как недорого и интересно украсить электрогитару](article/how-to-decorate-your-electric-guitar)
 + [Что такое технология и что такое продукт](article/what-is-technology-and-what-is-product)
 + [Перенаправление десктопных уведомлений на android-смартфон](article/forwarding-desktop-notifications-to-android)
