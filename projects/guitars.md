@@ -5,28 +5,28 @@
 
 #### ESP CRCT-1
 
-[![](http://wasteland.it-the-drote.tk/tmp/workouts/crct-1.png)](http://wasteland.it-the-drote.tk/tmp/workouts/crct-1.png)
+[![](/pictures/crct-1.png)](/pictures/crct-1.png)
 
 #### ESP CRCT-2
 
-[![](http://wasteland.it-the-drote.tk/tmp/workouts/crct-2.png)](http://wasteland.it-the-drote.tk/tmp/workouts/crct-2.png)
+[![](/pictures/crct-2.png)](/pictures/crct-2.png)
 
 #### ESP CRCT-3
 
-[![](http://wasteland.it-the-drote.tk/tmp/workouts/crct-3.png)](http://wasteland.it-the-drote.tk/tmp/workouts/crct-3.png)
+[![](/pictures/crct-3.png)](/pictures/crct-3.png)
 
 #### ESP RZK-II Schwarz
 
-[![](http://wasteland.it-the-drote.tk/tmp/workouts/rzk2_schwarz.png)](http://wasteland.it-the-drote.tk/tmp/workouts/rzk2_schwarz.png)
+[![](/pictures/rzk2_schwarz.png)](/pictures/rzk2_schwarz.png)
 
 #### ESP Teletruckster
 
-[![](http://wasteland.it-the-drote.tk/tmp/workouts/teletruckster.png)](http://wasteland.it-the-drote.tk/tmp/workouts/teletruckster.png)
+[![](/pictures/teletruckster.png)](/pictures/teletruckster.png)
 
 #### ESP Bushido
 
-[![](http://wasteland.it-the-drote.tk/tmp/workouts/esp_bushido.png)](http://wasteland.it-the-drote.tk/tmp/workouts/esp_bushido.png)
+[![](/pictures/esp_bushido.png)](/pictures/esp_bushido.png)
 
 #### Edwards E-EC-7DSB
 
-[![](http://wasteland.it-the-drote.tk/tmp/workouts/edwards-e-ec-7dsb.png)](http://wasteland.it-the-drote.tk/tmp/workouts/edwards-e-ec-7dsb.png)
+[![](/pictures/edwards-e-ec-7dsb.png)](/pictures/edwards-e-ec-7dsb.png)
