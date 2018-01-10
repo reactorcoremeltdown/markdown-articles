@@ -7,31 +7,31 @@
 
 Выглядит смартфон так:
 
-[ ![](http://dump.bitcheese.net/images/ytikucu/thumb/IMG_0591.jpeg) ](http://dump.bitcheese.net/images/ytikucu/thumb/IMG_0591.jpeg)
+[ ![](/pictures/IMG_0591.jpeg) ](/pictures/IMG_0591.jpeg)
 
-[ ![](http://dump.bitcheese.net/images/ijaholi/thumb/IMG_0593.jpeg) ](http://dump.bitcheese.net/images/ijaholi/thumb/IMG_0593.jpeg)
+[ ![](/pictures/IMG_0593.jpeg) ](/pictures/IMG_0593.jpeg)
 
 Корпус сделан из самого что ни есть дешёвого пластика, но зато такой не облезет, да и поцарапать не жалко. Кое-где пластиковые детали крышки уже треснули:
 
-[ ![](http://dump.bitcheese.net/images/ujafyle/thumb/IMG_0607.jpeg) ](http://dump.bitcheese.net/images/ujafyle/thumb/IMG_0607.jpeg)
+[ ![](/pictures/IMG_0607.jpeg) ](/pictures/IMG_0607.jpeg)
 
 Открывается смартфон относительно легко, для этого в боковине есть специальный паз для ногтя. Однако, стоит делать это аккуратно, иначе крышка может развалиться на части в некоторых местах:
 
-[ ![](http://dump.bitcheese.net/images/okoxugy/thumb/IMG_0597.jpeg) ](http://dump.bitcheese.net/images/okoxugy/thumb/IMG_0597.jpeg)
+[ ![](/pictures/IMG_0597.jpeg) ](/pictures/IMG_0597.jpeg)
 
 Под крышкой ничего особенного: два слота для sim-карт(3G поддерживается только одной из них), слот для карточек microsd, модуль камеры, хилая светодиодная вспышка, GPS-антенна и аккумулятор, ёмкостью 1,8 Ah, которого при умеренном использовании хватает на двое-трое суток(кстати, в комплекте их два, что радует.):
 
-[ ![](http://dump.bitcheese.net/images/izaxoce/thumb/IMG_0598.jpeg) ](http://dump.bitcheese.net/images/izaxoce/thumb/IMG_0598.jpeg)
+[ ![](/pictures/IMG_0598.jpeg) ](/pictures/IMG_0598.jpeg)
 
-[ ![](http://dump.bitcheese.net/images/uwehiny/thumb/IMG_0599.jpeg) ](http://dump.bitcheese.net/images/uwehiny/thumb/IMG_0599.jpeg)
+[ ![](/pictures/IMG_0599.jpeg) ](/pictures/IMG_0599.jpeg)
 
-[ ![](http://dump.bitcheese.net/images/enicuzo/thumb/IMG_0601.jpeg) ](http://dump.bitcheese.net/images/enicuzo/thumb/IMG_0601.jpeg)
+[ ![](/pictures/IMG_0601.jpeg) ](/pictures/IMG_0601.jpeg)
 
 Первое включение у этого смартфона совершенно реактивное - 5 секунд и аппарат готов к работе совершенно без каких-либо тормозов. Дальше же всё становится печальнее, но жить по-прежнему можно. Внутренней памяти для установки приложений мало, поэтому сразу можете смело ставить дефолтным устройством хранения карту памяти, иначе столкнётесь с проблемой нехватки места. И фоточки не забудьте туда же сохранять.
 
-[ ![](http://dump.bitcheese.net/images/aduwudo/thumb/IMG_0608.jpeg) ](http://dump.bitcheese.net/images/aduwudo/thumb/IMG_0608.jpeg)
+[ ![](/pictures/IMG_0608.jpeg) ](/pictures/IMG_0608.jpeg)
 
-[ ![](http://dump.bitcheese.net/images/ycugyte/thumb/IMG_0614.jpeg) ](http://dump.bitcheese.net/images/ycugyte/thumb/IMG_0614.jpeg)
+[ ![](/pictures/IMG_0614.jpeg) ](/pictures/IMG_0614.jpeg)
 
 Android в девйсе версии 4.0.3, почти стоковый, разве что добавили менеджер сим-карт в настройки, переделали звонилку и sms для работы с двумя симками и вернули удобные свитчеры в шторку.
 
