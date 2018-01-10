@@ -33,9 +33,7 @@
 
 [ ![](http://dump.bitcheese.net/images/ycugyte/thumb/IMG_0614.jpeg) ](http://dump.bitcheese.net/images/ycugyte/thumb/IMG_0614.jpeg)
 
-Android в девйсе версии 4.0.3, почти стоковый, разве что добавили менеджер сим-карт в настройки, переделали звонилку и sms для работы с двумя симками и вернули удобные свитчеры в шторку:
-
-[ ![](http://dump.bitcheese.net/images/ecuboco/thumb/IMG_0620.jpeg) ](http://dump.bitcheese.net/images/ecuboco/thumb/IMG_0620.jpeg)
+Android в девйсе версии 4.0.3, почти стоковый, разве что добавили менеджер сим-карт в настройки, переделали звонилку и sms для работы с двумя симками и вернули удобные свитчеры в шторку.
 
 Беспроводные интерфейсы в трубке работают без каких-либо проблем. 3G в смартфоне честный, GPS тоже.
 
