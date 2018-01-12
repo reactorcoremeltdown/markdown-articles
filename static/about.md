@@ -5,30 +5,30 @@
 
 Непрерывно функционирую с первого марта 1989 года.
 
-На данный момент я ~~линуксоид~~ ~~маковод~~ ~~виндузятник~~ вообще хрен пойми кто, если говорить о компьютерной сексуальной ориентации, а также  системный администратор в [широко известном в узких кругах поисковом сервисе](http://yandex.ru) и просто хороший человек.
+Коротко о себе: музыка, гитары, котики, синтезаторы, UNIX и DIY.
 
 В естественной среде обитания выгляжу примерно так:
 
-![](images/portrait.jpg)
-
-Да, как вы уже заметили, я люблю страдать ерундой, изобретать костыли и подпорки. Также люблю играть руками на бытовой электрической гитаре, гулять на природе, ездить на велосипеде и слушать хорошую музыку. Не люблю немузыкальный шум, спам, алкоголиков и религиозных фанатиков.
+![/pictures/portrait.jpg](/pictures/portrait.jpg)
 
 #### Сетевая активность
 
-Временами обитаю в интернете:
+Активные учётные записи:
 
 + [GitHub](https://github.com/Like-all)
-+ ~~[Questhub](http://questhub.io/player/Buckstabu)~~ - заброшено, перекатился на [trello](http://trello.com)
-+ [Endomondo](http://www.endomondo.com/profile/10419237)
-+ ~~[Twitter](https://twitter.com/schmerzundtod)~~ - заброшено, реанимация не планируется
-+ [Linux.Org.Ru](http://www.linux.org.ru/people/like-all/profile)
-+ [Instagram](http://instagram.com/reactorcoremeltdown)
-+ [BnW](http://bnw.im/u/like-all)
-+ ~~[Point.im](https://like-all.point.im)~~ - заброшено.
-+ ~~[Juick](http://juick.com/Buckstabu)~~ - заброшено.
-+ ~~[Psto.net](http://like-all.psto.net) - заброшено, огорожено от незалогиненных.~~ Сервис окончательно сдох. логи есть [тут](http://huick.bitcheese.net/u/like-all)
++ [Instagram](https://instagram.com/reactorcoremeltdown)
++ [Facebook](https://facebook.com/schmerzundtod)
 
-[Плюсач](http://plus.google.com) не прижился. Вконтакты Линкедины, реддиты, формспринги и прочие пожиратели времени не использую, не вижу смысла.
+Неактивные учётные записи:
+
++ ~~[Linux.Org.Ru](https://www.linux.org.ru/people/like-all/profile)~~ - иногда заглядываю, но в целом заброшено
++ ~~[BnW](https://bnw.im/u/like-all)~~ заброшено
++ ~~[Endomondo](https://www.endomondo.com/profile/10419237)~~ - заброшено
++ ~~Twitter~~ - заброшено
++ ~~Point.im~~ - заброшено
++ ~~[Juick](https://juick.com/Buckstabu)~~ - заброшено
++ ~~Psto.net~~ - сервис прекратил существование
++ ~~Questhub~~ - сервис прекратил существование
 
 #### Контакты
 
@@ -38,12 +38,9 @@
 
 Время от времени можно писать и в **электронную почту**: <like-all@yandex.com>
 
-Номер телефона даю только в случае критической необходимости.
-
 #### Добро
 
-Если хотите дать мне денег, то это вполне осуществимо:
+Если хотите сделать меня счастливее, то это вполне осуществимо:
 
-+ **Yandex.Money**: 410011034369093
-+ **Bitcoin**: [196mWnvQze7UX16SUwzBy4ppUMcPbgUTPH](bitcoin:196mWnvQze7UX16SUwzBy4ppUMcPbgUTPH?label=btcpocket)
-+ **Litecoin**: [LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH](litecoin:LaW4vgsVn9Vghu3SSwWTMhz6PWbusH3HaH?label=ltcpocket)
++ [Amazon Wishlist](https://www.amazon.de/hz/wishlist/ls/2K0AAQGQMSDXN?&sort=default)
++ [Кампания на GoFundMe](https://www.gofundme.com/4fst6bc)
