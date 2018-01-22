@@ -10,14 +10,19 @@ failure='0'
 for file in `find . -name '*.md'`; do
   echo -e "${GREEN}Checking URLs inside ${file}:${NOCOLOR}"
   for link in `oust <(marked ${file}) links`; do
+    current_failure_mark='0'
     link_prefix=`echo $link | cut -f 1  -d '/'`
     case $link_prefix in
       "http:"|"https:" )
-        curl --fail --silent --output /dev/null $link || echo -e "${RED}❌  ${link} is broken!$NOCOLOR" && failure='1'
+        curl --fail --silent --output /dev/null $link || current_failure_mark='1'
         ;;
       "article"|"project"|"dream" )
-        curl --fail --silent --output /dev/null "file:///${PWD}/`echo ${link} | sed 's|article|articles|;s|project|projects|;s|dream|dreams|'`.md" || echo -e "${RED}❌  ${link} is broken!$NOCOLOR"
+        curl --fail --silent --output /dev/null "file:///${PWD}/`echo ${link} | sed 's|article|articles|;s|project|projects|;s|dream|dreams|'`.md" || current_failure_mark='1'
         ;;
+      if [[ $current_failure_mark = '0' ]]; then
+        echo -e "${RED}❌  ${link} is broken!$NOCOLOR"
+        failure='1'
+      fi
     esac
   done
 done
