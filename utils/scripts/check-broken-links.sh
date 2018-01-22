@@ -15,15 +15,16 @@ for file in `find . -name '*.md'`; do
     case $link_prefix in
       "http:"|"https:" )
         curl --fail --silent --output /dev/null $link || current_failure_mark='1'
+        echo "Failure mark: "$current_failure_mark
         ;;
       "article"|"project"|"dream" )
         curl --fail --silent --output /dev/null "file:///${PWD}/`echo ${link} | sed 's|article|articles|;s|project|projects|;s|dream|dreams|'`.md" || current_failure_mark='1'
         ;;
-      if [[ $current_failure_mark = '0' ]]; then
-        echo -e "${RED}❌  ${link} is broken!$NOCOLOR"
-        failure='1'
-      fi
     esac
+    if [[ $current_failure_mark = '1' ]]; then
+      echo -e "${RED}❌  ${link} is broken!$NOCOLOR"
+      failure='1'
+    fi
   done
 done
 
